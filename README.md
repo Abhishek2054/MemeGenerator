@@ -1,4 +1,4 @@
-## Meme Generator application that i created, while following a course by Bob Ziroll.
+## Meme Generator application that i created, while following a course on Scrimba.
 ![meme](https://user-images.githubusercontent.com/48876996/57917736-5b1c5b00-78a6-11e9-875b-586470cae428.png)
 
 
