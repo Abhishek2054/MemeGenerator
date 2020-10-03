@@ -8,5 +8,7 @@
 
 ## Heads up
 Some of them are funnier than others.
+But one point to notice is, Sometimes the memes are irritating so we have to keep our privacy.
+Otherwise its a good repo.
 
 _**This project was created during #100DaysOfCode challenge.**_
